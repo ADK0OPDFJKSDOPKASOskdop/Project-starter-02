@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<div style=" background-color:PINK; width:120px; height:70px; font-style: arial-black; font-size: 40px; font-weight: bold; position: relative; left:320px; border-style: solid; font size: 40px"=>Botao</div>
+</body>
+</html>
